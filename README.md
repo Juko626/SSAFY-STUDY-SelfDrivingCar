@@ -6,7 +6,7 @@ Create OOOO.md
 ```
 
 
-### Commit modified ile
+### Commit Modified File
 ```
 Update OOOO.md
 ```
