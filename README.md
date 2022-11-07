@@ -2,11 +2,11 @@
 
 ### Commit New File
 ```
-Create OOOO.md
+git commit -m "Create OOOO.md"
 ```
 
 
 ### Commit Modified File
 ```
-Update OOOO.md
+git commit -m "Update OOOO.md"
 ```
